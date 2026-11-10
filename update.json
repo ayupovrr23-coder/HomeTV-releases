@@ -1,9 +1,9 @@
 {
-  "versionCode": 137,
-  "versionName": "2.5.93",
+  "versionCode": 138,
+  "versionName": "2.5.94",
   "apkUrl": "https://raw.githubusercontent.com/ayupovrr23-coder/HomeTV-releases/main/HomeTV.apk",
   "githubReleaseUrl": "https://github.com/ayupovrr23-coder/HomeTV-releases/releases/latest/download/HomeTV.apk",
-  "changelog": "HomeTV v2.5.93: Официальный релиз с автоматическим обновлением через GitHub и SMB",
+  "changelog": "HomeTV v2.5.94: Подключена облачная синхронизация профилей Firebase Realtime Database (тариф Spark) + SMB роутера",
   "publishDate": "2026-11-11",
   "forceUpdate": false
 }
