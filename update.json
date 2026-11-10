@@ -3,7 +3,7 @@
   "versionName": "2.5.93",
   "apkUrl": "https://raw.githubusercontent.com/ayupovrr23-coder/HomeTV-releases/main/HomeTV.apk",
   "githubReleaseUrl": "https://github.com/ayupovrr23-coder/HomeTV-releases/releases/latest/download/HomeTV.apk",
-  "changelog": "HomeTV v2.5.93",
+  "changelog": "HomeTV v2.5.93: Официальный публичный релиз с поддержкой автономных обновлений",
   "publishDate": "2026-11-11",
   "forceUpdate": false
 }

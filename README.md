@@ -8,4 +8,4 @@
 - **Манифест обновлений:** [update.json](https://raw.githubusercontent.com/ayupovrr23-coder/HomeTV-releases/main/update.json)
 
 ### 📝 Изменения
-HomeTV v2.5.93
+HomeTV v2.5.93: Официальный публичный релиз с поддержкой автономных обновлений
