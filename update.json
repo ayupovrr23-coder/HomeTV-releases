@@ -1,9 +1,9 @@
 {
-  "versionCode": 143,
-  "versionName": "2.5.99",
+  "versionCode": 144,
+  "versionName": "2.6.00",
   "apkUrl": "https://raw.githubusercontent.com/ayupovrr23-coder/HomeTV-releases/main/HomeTV.apk",
   "githubReleaseUrl": "https://github.com/ayupovrr23-coder/HomeTV-releases/releases/latest/download/HomeTV.apk",
-  "changelog": "HomeTV v2.5.99: TMDB API v4/v3 — киносаги (Макет А), биографии и фильмографии актёров, официальные трейлеры, бэкдропы, логотипы и статус новых серий",
+  "changelog": "HomeTV v2.6.00: Балансеры 1080p (сериалы Collaps/Alloha, Ashdi, Kinobase), фикс TMDB данных и гарантированный старт в 1080p FHD",
   "publishDate": "2026-11-11",
   "forceUpdate": false
 }
