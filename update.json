@@ -1,9 +1,9 @@
 {
-  "versionCode": 141,
-  "versionName": "2.5.97",
+  "versionCode": 142,
+  "versionName": "2.5.98",
   "apkUrl": "https://raw.githubusercontent.com/ayupovrr23-coder/HomeTV-releases/main/HomeTV.apk",
   "githubReleaseUrl": "https://github.com/ayupovrr23-coder/HomeTV-releases/releases/latest/download/HomeTV.apk",
-  "changelog": "HomeTV v2.5.97: Редизайн карточки фильма",
+  "changelog": "HomeTV v2.5.98: Проработка каталогов, быстрый чип «Русские», разделение фильмов/сериалов/мультфильмов, TMDB v4",
   "publishDate": "2026-11-11",
   "forceUpdate": false
 }
