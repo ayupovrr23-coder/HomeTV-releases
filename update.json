@@ -1,9 +1,9 @@
 {
-  "versionCode": 146,
-  "versionName": "2.6.2",
+  "versionCode": 147,
+  "versionName": "2.6.3",
   "apkUrl": "https://raw.githubusercontent.com/ayupovrr23-coder/HomeTV-releases/main/HomeTV.apk",
   "githubReleaseUrl": "https://github.com/ayupovrr23-coder/HomeTV-releases/releases/latest/download/HomeTV.apk",
-  "changelog": "HomeTV v2.6.02 (build 146): Подключен персональный ключ Kinopoisk API пользователя",
+  "changelog": "HomeTV v2.6.3 (Кэш Kinopoisk API, сжатие графики, фикс кнопки Трейлер)",
   "publishDate": "2026-11-11",
   "forceUpdate": false
 }
