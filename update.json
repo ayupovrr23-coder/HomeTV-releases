@@ -1,9 +1,9 @@
 {
-  "versionCode": 148,
-  "versionName": "2.6.4",
+  "versionCode": 149,
+  "versionName": "2.6.5",
   "apkUrl": "https://raw.githubusercontent.com/ayupovrr23-coder/HomeTV-releases/main/HomeTV.apk",
   "githubReleaseUrl": "https://github.com/ayupovrr23-coder/HomeTV-releases/releases/latest/download/HomeTV.apk",
-  "changelog": "HomeTV v2.6.4 (Облачный L2 кэш Firebase+SMB, выравнивание шапки по правому краю, авто-обрезка логотипов, названия серий)",
+  "changelog": "HomeTV v2.6.5 (Исправление загрузки бэкдропов Kinopoisk и бесшовное растворение фона)",
   "publishDate": "2026-11-11",
   "forceUpdate": false
 }
