@@ -1,9 +1,9 @@
 {
-  "versionCode": 152,
-  "versionName": "2.6.8",
+  "versionCode": 153,
+  "versionName": "2.6.9",
   "apkUrl": "https://raw.githubusercontent.com/ayupovrr23-coder/HomeTV-releases/main/HomeTV.apk",
   "githubReleaseUrl": "https://github.com/ayupovrr23-coder/HomeTV-releases/releases/latest/download/HomeTV.apk",
-  "changelog": "HomeTV v2.6.8 — Комплексные исправления Варианта 1: защита памяти Sony Bravia 2GB RAM, буферы LoadControl, авторазрешение серий в плеере, WebP кэш постеров и аватаров, безотказные подложки Кинопоиска, сдвиг шапки вправо",
+  "changelog": "HomeTV v2.6.9 (Оптимизация обложек, защита от 4K VP9 вылетов на ТВ, стабильность карточки фильма)",
   "publishDate": "2026-11-11",
   "forceUpdate": false
 }
