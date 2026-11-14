@@ -1,9 +1,9 @@
 {
-  "versionCode": 153,
-  "versionName": "2.6.9",
+  "versionCode": 154,
+  "versionName": "2.6.10",
   "apkUrl": "https://raw.githubusercontent.com/ayupovrr23-coder/HomeTV-releases/main/HomeTV.apk",
   "githubReleaseUrl": "https://github.com/ayupovrr23-coder/HomeTV-releases/releases/latest/download/HomeTV.apk",
-  "changelog": "HomeTV v2.6.9 (Оптимизация обложек, защита от 4K VP9 вылетов на ТВ, стабильность карточки фильма)",
+  "changelog": "HomeTV v2.6.10: Мобильная шапка без мини-обложки, 4-уровневые метаданные, фикс статуса сериалов, 4K HEVC",
   "publishDate": "2026-11-11",
   "forceUpdate": false
 }
