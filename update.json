@@ -1,9 +1,9 @@
 {
-  "versionCode": 157,
-  "versionName": "2.6.13",
+  "versionCode": 158,
+  "versionName": "2.6.14",
   "apkUrl": "https://raw.githubusercontent.com/ayupovrr23-coder/HomeTV-releases/main/HomeTV.apk",
   "githubReleaseUrl": "https://github.com/ayupovrr23-coder/HomeTV-releases/releases/latest/download/HomeTV.apk",
-  "changelog": "HomeTV v2.6.13: Устранение мерцания и двойного срабатывания клика при раскрытии биографии актёра на смартфоне + плавная вертикальная прокрутка текста с перехватом тач-событий",
+  "changelog": "HomeTV v2.6.14 (билд 158): Приоритет Кинопоиска + Firebase кэш для метаданных карточки, правое выравнивание жанров и новый персональный движок Рекомендаций",
   "publishDate": "2026-11-11",
   "forceUpdate": false
 }
