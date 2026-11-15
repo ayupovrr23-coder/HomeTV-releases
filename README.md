@@ -2,10 +2,10 @@
 Публичный репозиторий релизов и автообновлений HomeTV.
 
 ### 📥 Актуальная версия
-- **Версия:** `v2.6.19` (код сборки `163`)
+- **Версия:** `v2.6.20` (код сборки `164`)
 - **Размер APK:** `31.27 МБ`
 - **Прямая ссылка на скачивание:** [HomeTV.apk](https://raw.githubusercontent.com/ayupovrr23-coder/HomeTV-releases/main/HomeTV.apk)
 - **Манифест обновлений:** [update.json](https://raw.githubusercontent.com/ayupovrr23-coder/HomeTV-releases/main/update.json)
 
 ### 📝 Изменения
-HomeTV v2.6.19 (билд 163)
+HomeTV v2.6.20 (билд 164)
