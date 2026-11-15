@@ -1,9 +1,9 @@
 {
-  "versionCode": 161,
-  "versionName": "2.6.17",
+  "versionCode": 162,
+  "versionName": "2.6.18",
   "apkUrl": "https://raw.githubusercontent.com/ayupovrr23-coder/HomeTV-releases/main/HomeTV.apk",
   "githubReleaseUrl": "https://github.com/ayupovrr23-coder/HomeTV-releases/releases/latest/download/HomeTV.apk",
-  "changelog": "HomeTV v2.6.17 (билд 161)",
+  "changelog": "HomeTV v2.6.18 (билд 162)",
   "publishDate": "2026-11-11",
   "forceUpdate": false
 }
