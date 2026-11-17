@@ -1,9 +1,9 @@
 {
-  "versionCode": 170,
-  "versionName": "2.6.26",
+  "versionCode": 171,
+  "versionName": "2.6.27",
   "apkUrl": "https://raw.githubusercontent.com/ayupovrr23-coder/HomeTV-releases/main/HomeTV.apk",
   "githubReleaseUrl": "https://github.com/ayupovrr23-coder/HomeTV-releases/releases/latest/download/HomeTV.apk",
-  "changelog": "HomeTV v2.6.26: Защита от OOM и ANR, единое чёткое разрешение обложек во всех разделах с оптимизацией RAM/GPU для ТВ, улучшенная телеметрия сбоев Firebase",
+  "changelog": "HomeTV v2.6.27 (build 171): очистка кода, устранение дубликатов меню и оптимизация дизайн-системы",
   "publishDate": "2026-11-11",
   "forceUpdate": false
 }
