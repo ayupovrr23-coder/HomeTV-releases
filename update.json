@@ -1,9 +1,9 @@
 {
-  "versionCode": 173,
-  "versionName": "2.6.29",
+  "versionCode": 174,
+  "versionName": "2.6.30",
   "apkUrl": "https://raw.githubusercontent.com/ayupovrr23-coder/HomeTV-releases/main/HomeTV.apk",
   "githubReleaseUrl": "https://github.com/ayupovrr23-coder/HomeTV-releases/releases/latest/download/HomeTV.apk",
-  "changelog": "HomeTV v2.6.29: исправление определения языков и названий озвучек (онлайн и торренты), авто-ретрай зеркал Lift API, телеметрия аудиодорожек",
+  "changelog": "HomeTV v2.6.30 (сборка 174): сквозной аудит — надёжность сериалов/синхронизации/телеметрии, устранение IO в Main Thread и двойной загрузки постеров, оптимизация памяти для 2GB TV, исправления UI/insets/D-Pad фокуса и рефакторинг парсеров",
   "publishDate": "2026-11-11",
   "forceUpdate": false
 }
