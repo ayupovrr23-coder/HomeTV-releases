@@ -1,9 +1,9 @@
 {
-  "versionCode": 174,
-  "versionName": "2.6.30",
+  "versionCode": 175,
+  "versionName": "2.6.31",
   "apkUrl": "https://raw.githubusercontent.com/ayupovrr23-coder/HomeTV-releases/main/HomeTV.apk",
   "githubReleaseUrl": "https://github.com/ayupovrr23-coder/HomeTV-releases/releases/latest/download/HomeTV.apk",
-  "changelog": "HomeTV v2.6.30 (сборка 174): сквозной аудит — надёжность сериалов/синхронизации/телеметрии, устранение IO в Main Thread и двойной загрузки постеров, оптимизация памяти для 2GB TV, исправления UI/insets/D-Pad фокуса и рефакторинг парсеров",
+  "changelog": "HomeTV v2.6.31 (сборка 175): фикс закрытия плеера на Haier Android TV FF Pro (обход сбойного OMX.MS.VP9.Decoder в пользу H.264/SW, отключение принудительного сброса частоты Surface и защита памяти 1.8 ГБ RAM)",
   "publishDate": "2026-11-11",
   "forceUpdate": false
 }
