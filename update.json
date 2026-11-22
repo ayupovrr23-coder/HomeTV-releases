@@ -1,9 +1,9 @@
 {
-  "versionCode": 178,
-  "versionName": "2.6.34",
+  "versionCode": 179,
+  "versionName": "2.6.35",
   "apkUrl": "https://raw.githubusercontent.com/ayupovrr23-coder/HomeTV-releases/main/HomeTV.apk",
   "githubReleaseUrl": "https://github.com/ayupovrr23-coder/HomeTV-releases/releases/latest/download/HomeTV.apk",
-  "changelog": "HomeTV v2.6.34: адаптация интерфейса Samsung One UI под планшеты, защита смартфонов от ТВ-режима и прямоугольные портреты актёров 3:4",
+  "changelog": "HomeTV v2.6.35: синхронизация старта звука и видео (шторка до 1-го кадра) + крупный One UI интерфейс для планшетов Samsung",
   "publishDate": "2026-11-11",
   "forceUpdate": false
 }
