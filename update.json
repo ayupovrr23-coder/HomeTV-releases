@@ -1,9 +1,9 @@
 {
-  "versionCode": 177,
-  "versionName": "2.6.33",
+  "versionCode": 178,
+  "versionName": "2.6.34",
   "apkUrl": "https://raw.githubusercontent.com/ayupovrr23-coder/HomeTV-releases/main/HomeTV.apk",
   "githubReleaseUrl": "https://github.com/ayupovrr23-coder/HomeTV-releases/releases/latest/download/HomeTV.apk",
-  "changelog": "HomeTV v2.6.33: встроенный 32-bit торрент-движок (armeabi-v7a) и автофиксация VP9 720p для Haier Android TV FF Pro",
+  "changelog": "HomeTV v2.6.34: адаптация интерфейса Samsung One UI под планшеты, защита смартфонов от ТВ-режима и прямоугольные портреты актёров 3:4",
   "publishDate": "2026-11-11",
   "forceUpdate": false
 }
