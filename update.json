@@ -1,9 +1,9 @@
 {
-  "versionCode": 176,
-  "versionName": "2.6.32",
+  "versionCode": 177,
+  "versionName": "2.6.33",
   "apkUrl": "https://raw.githubusercontent.com/ayupovrr23-coder/HomeTV-releases/main/HomeTV.apk",
   "githubReleaseUrl": "https://github.com/ayupovrr23-coder/HomeTV-releases/releases/latest/download/HomeTV.apk",
-  "changelog": "HomeTV v2.6.32 (сборка 176): рейтинг Rotten Tomatoes в карточке фильма, оценки каждой серии по сезонам (OMDb + кэш Firebase L2) и резервные источники ПоискКино API + TVMaze API",
+  "changelog": "HomeTV v2.6.33: встроенный 32-bit торрент-движок (armeabi-v7a) и автофиксация VP9 720p для Haier Android TV FF Pro",
   "publishDate": "2026-11-11",
   "forceUpdate": false
 }
