@@ -1,9 +1,9 @@
 {
-  "versionCode": 180,
-  "versionName": "2.6.36",
+  "versionCode": 181,
+  "versionName": "2.6.37",
   "apkUrl": "https://raw.githubusercontent.com/ayupovrr23-coder/HomeTV-releases/main/HomeTV.apk",
   "githubReleaseUrl": "https://github.com/ayupovrr23-coder/HomeTV-releases/releases/latest/download/HomeTV.apk",
-  "changelog": "HomeTV v2.6.36 (сборка 180): аудит надёжности, скорости, синхронизации, StudioDetector и 3-уровневого UI карточки",
+  "changelog": "HomeTV v2.6.37 (сборка 181): флагманский дизайн One UI 9 для смартфонов + фикс ANR плеера",
   "publishDate": "2026-11-11",
   "forceUpdate": false
 }
